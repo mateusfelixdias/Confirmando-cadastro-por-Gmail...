@@ -1,2 +1,4 @@
-# npm i: instalar as dependências!
-# npm start: inicia projeto!
+# npm i
+instalar as dependências!
+# npm start
+inicia projeto!
